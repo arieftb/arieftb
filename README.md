@@ -43,4 +43,4 @@ I'm an **Android App Developer** with experience in building modern Android appl
 
 I'm open to Android development collaborations and discussions. Feel free to reach out!
 
-📫 How to reach me: [email@arieftb.com](mailto:arieftb22@gmail.com)
+📫 How to reach me: [arieftb22@gmail.com](mailto:arieftb22@gmail.com)
