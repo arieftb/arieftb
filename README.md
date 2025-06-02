@@ -4,7 +4,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logoColor=white)](https://twitter.com/arieftb)
 [![Instragram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logoColor=white)](https://instagram.com/arieftb22)
 
-I'm an **Android App Developer** with experience in building modern Android applications. I enjoy working with Kotlin Android Native and Kotlin Multiplatform and exploring new web technologies.
+I'm an **Android App Developer** with experience in building modern Android applications. I enjoy working with Kotlin Android Native and Kotlin Multiplatform and exploring new web and mobile app technologies.
 
 ## 🔧 Technologies & Tools
 
