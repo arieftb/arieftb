@@ -48,7 +48,7 @@ I'm an **Android App Developer** with experience in building modern Android appl
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=arieftb&theme=onedark&row=1)](https://github.com/arieftb/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=arieftb)](https://github.com/arieftb/github-profile-trophy)
 
 ## 🤝 Let's Connect
 
