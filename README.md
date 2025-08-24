@@ -14,6 +14,18 @@ I'm an **Android App Developer** with experience in building modern Android appl
 ![](https://img.shields.io/badge/Kotlin-Multiplatform-%237f52ff?logo=kotlin&logoColor=white)
 ![](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat&logo=jetpack-compose&logoColor=white)
 ![](https://img.shields.io/badge/Capacitor-119EFF?style=flat&logo=capacitor&logoColor=white)
+![](https://img.shields.io/badge/Goole_Play_Store-3DDC84?style=flat&logo=googleplay&logoColor=white)
+![](https://img.shields.io/badge/Huawei_Mobile_Service-FF0000?style=flat&logo=huawei&logoColor=white)
+
+### Web
+![](https://img.shields.io/badge/html-E34F26?logo=html5&logoColor=white)
+![](https://img.shields.io/badge/css-663399?logo=css&logoColor=white)
+![](https://img.shields.io/badge/javascript-F7DF1E?logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/react-61DAFB?logo=react&logoColor=black)
+![](https://img.shields.io/badge/vite-646CFF?logo=vite&logoColor=white)
+![](https://img.shields.io/badge/axios-5A29E4?logo=axios&logoColor=white)
+![](https://img.shields.io/badge/redux-764ABC?logo=redux&logoColor=white)
+![](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white)
 
 ### Tools
 ![](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -22,8 +34,7 @@ I'm an **Android App Developer** with experience in building modern Android appl
 ![](https://img.shields.io/badge/Intellij%20Idea-5A4FCF?logo=intellij-idea&style=flat)
 ![](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![](https://img.shields.io/badge/JFrog-00C63D?style=flat&logo=jfrog&logoColor=white)
-![](https://img.shields.io/badge/Goole_Play_Store-3DDC84?style=flat&logo=googleplay&logoColor=white)
-![](https://img.shields.io/badge/Huawei_Mobile_Service-FF0000?style=flat&logo=huawei&logoColor=white)
+![](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=vscode&logoColor=white)
 
 ## 📈 GitHub Stats
 
