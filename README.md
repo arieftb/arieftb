@@ -46,10 +46,6 @@ I'm an **Android App Developer** with experience in building modern Android appl
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arieftb&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=7F52FF&bg_color=1d1f21&langs_count=5&layout=compact" />
 </a>
 
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=arieftb)](https://github.com/arieftb/github-profile-trophy)
-
 ## 🤝 Let's Connect
 
 I'm open to Android development collaborations and discussions. Feel free to reach out!
